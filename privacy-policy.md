@@ -65,23 +65,12 @@ site, place an order, subscribe to our newsletter, respond to a survey
 or fill out a form.
 
 -   Name / Username
--   Phone Numbers
 -   Email Addresses
--   Job Titles
 -   Password
 
 We also collect information from mobile devices for a better user
 experience, although these features are completely optional:
 
--   Location (GPS): Location data helps to create an accurate
-    representation of your interests, and this can be used to bring more
-    targeted and relevant ads to potential customers.
--   Phonebook (Contacts list): Your contacts list allows the app to be
-    much more easy to use by the user, since accessing your contacts
-    from the app makes you save tons of time.
--   Camera (Pictures): Granting camera permission allows the user to
-    upload any picture straight from the app, you can safely deny camera
-    permissions for this app.
 -   Photo Gallery (Pictures): Granting photo gallery access allows the
     user to upload any picture from their photo gallery, you can safely
     deny photo gallery access for this app.
@@ -127,14 +116,7 @@ these websites and changing your privacy settings.
 
 # Do we share the information we collect with third parties?
 
-We may share the information that we collect, both personal and
-non-personal, with third parties such as advertisers, contest sponsors,
-promotional and marketing partners, and others who provide our content
-or whose products or services we think may interest you. We may also
-share it with our current and future affiliated companies and business
-partners, and if we are involved in a merger, asset sale or other
-business reorganization, we may also share or transfer your personal and
-non-personal information to our successors-in-interest.
+We dont share our members login to third party.
 
 We may engage trusted third party service providers to perform functions
 and provide services to us, such as hosting and maintaining our servers
@@ -434,30 +416,8 @@ Third-Party Services and links thereto are provided solely as a
 convenience to you and you access and use them entirely at your own risk
 and subject to such third parties\' terms and conditions.
 
-# Facebook Pixel
-
-Facebook pixel is an analytics tool that allows you to measure the
-effectiveness of your advertising by understanding the actions people
-take on your website. You can use the pixel to: Make sure your ads are
-shown to the right people. Facebook pixel may collect information from
-your device when you use the service. Facebook pixel collects
-information that is held in accordance with its Privacy Policy
 
 # Tracking Technologies
-
--   Google Maps API\
-    \
-
-    Google Maps API is a robust tool that can be used to create a
-    custom map, a searchable map, check-in functions, display live data
-    synching with location, plan routes, or create a mashup just to name
-    a few.
-
-    Google Maps API may collect information from You and from Your
-    Device for security purposes.
-
-    Google Maps API collects information that is held in accordance with
-    its Privacy Policy
 
 -   Cookies\
     \
@@ -624,4 +584,4 @@ For more information about these rights, please contact us.
 Don\'t hesitate to contact us if you have any questions.
 
 -   Via Email: aiqbalsyah@gmail.com
--   Via Phone Number: ‪6281295943279‬
+-   Via Phone Number: ‪+6285884273083‬
