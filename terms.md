@@ -3,8 +3,7 @@
 Welcome to fanalyst.app!
 
 These terms and conditions outline the rules and regulations for the use
-of https://fanalyst.app\'s Website, located at https://fanalyst.app.
-
+of https://fanalyst.app's 
 By accessing this website we assume you accept these terms and
 conditions. Do not continue to use fanalyst.app if you do not agree to
 take all of the terms and conditions stated on this page.
